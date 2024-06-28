@@ -8,7 +8,7 @@ menu = {
 }
 
 #Greet
-print("Welcome to  Reastaurant")
+print("Welcome to  Restaurant")
 print("Pizza:Rs40\nPasta:50\nBurger:60\nSalad:70\nCoffee:80")
 
 order_total=0
